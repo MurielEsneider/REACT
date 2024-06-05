@@ -1,0 +1,9 @@
+.color{
+    color: white;
+    background-color: aquamarine;
+}
+.dflex{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
